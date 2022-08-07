@@ -2,7 +2,9 @@
 
 <a href="https://100rabhcsmc.github.io/Me.io/">Preview</a>
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page Mine.
+Developers don't talk much.  
+Their code does all the talking.    
+So here's a minimal landing page Mine .
 
 <img src="MyLandingPage.png">
 
